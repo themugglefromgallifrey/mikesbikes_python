@@ -1,6 +1,6 @@
 # Mike's Bikes Store Management System
 
-#### Video Demo: <PASTE YOUR VIDEO URL HERE>
+#### Video Demo: <https://youtu.be/7ollyoFh3ks>
 
 #### Description:
 
